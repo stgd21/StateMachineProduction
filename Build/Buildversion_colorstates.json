@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.0",
+"dataUrl": "Buildversion_colorstates.data.unityweb",
+"wasmCodeUrl": "Buildversion_colorstates.wasm.code.unityweb",
+"wasmFrameworkUrl": "Buildversion_colorstates.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.16f1"
+}
